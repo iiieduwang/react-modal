@@ -1,3 +1,9 @@
+這個專案用來測試如何在react中產生Modal效果
+方法一 是由學生提供的網上範例實作而成
+方法二 直接用bootstrap中的Modal
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
