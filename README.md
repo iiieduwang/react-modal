@@ -1,5 +1,7 @@
-這個專案用來測試如何在react中產生Modal效果
-方法一 是由學生提供的網上範例實作而成
+這個專案用來測試如何在react中產生Modal效果<br>
+方法一 是由學生提供的網上範例實作而成<br>
+https://daveceddia.com/open-modal-in-react/<br>
+
 方法二 直接用bootstrap中的Modal
 
 
