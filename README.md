@@ -3,7 +3,7 @@
 https://daveceddia.com/open-modal-in-react/<br>
 
 方法二 直接用bootstrap中的Modal
-
+http://getbootstrap.com/docs/4.1/components/modal/
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
