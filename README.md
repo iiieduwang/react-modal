@@ -1,9 +1,16 @@
 這個專案用來測試如何在react中產生Modal效果<br>
-方法一 是由學生提供的網上範例實作而成<br>
+方法一 是由學生提供的網上範例實作而成
 https://daveceddia.com/open-modal-in-react/<br>
 
 方法二 直接用bootstrap中的Modal
-http://getbootstrap.com/docs/4.1/components/modal/
+http://getbootstrap.com/docs/4.1/components/modal/<br>
+
+專案執行方式<br>
+1. clone 或 download 這個專案<br>
+2. 執行 npm install 或 yarn install 安裝相關套件<br>
+3. 執行 npm start 或 yarn start 啟動網頁<br>
+
+
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
